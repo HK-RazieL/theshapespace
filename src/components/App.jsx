@@ -4,7 +4,7 @@ import About from "./About";
 import HomePage from "./HomePage";
 import Contacts from "./Contacts";
 import TwitchStream from "./TwitchStream";
-import { BrowserRouter, Route, HashRouter } from "react-router-dom";
+import { Route, HashRouter } from "react-router-dom";
 
 class App extends Component {
   render() {
